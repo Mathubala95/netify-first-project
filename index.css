@@ -1,0 +1,35 @@
+body{
+    background-color: khaki;
+}
+.box-part{
+    background-color: mediumseagreen;
+    padding: 50px 10px;
+    margin: 30px 0px;
+}
+.fa{
+    color: blue;
+}
+a{
+    color: sienna;
+}
+a:hover{
+    color: gold;
+    background-color: transparent;
+    text-decoration: underline;
+  } 
+p{
+    font-size: 12px;
+}
+.box{
+    padding: 60px 0px;
+}
+h4{
+color: brown;   
+}
+
+
+
+
+
+
+
